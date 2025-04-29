@@ -1,0 +1,10 @@
+{
+  "/api": {
+    "target": " https://d698-201-144-32-214.ngrok-free.app",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
